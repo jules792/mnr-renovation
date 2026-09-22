@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mnr-renovation-refonte.jules483909.chatgpt.site/sitemap.xml
