@@ -1,0 +1,89 @@
+c0-0
+Use case: photorealistic-natural. Asset type: editorial illustration for a French artisan renovation journal, fictional setting. Primary request: a beautiful solid oak interior door in a characterful French country house. Landscape photograph, 3:2 aspect ratio, three-quarter view including door frame and softly lit lime plaster hallway. Natural daylight, realistic subtle oak grain, refined warm wood and charcoal neutral palette. No people, no text, no logos, no watermark. Architectural editorial photography, believable materials and construction, not a real company's documented project.
+
+c0-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a custom built-in cupboard fitted beneath the slope of an attic roof, flush natural oak doors, cosy plaster attic room, broad frontal interior composition. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c0-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: close detail of a solid oak kitchen worktop edge and grain with discreet charcoal cabinetry, low oblique camera angle. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c1-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a beautifully restored oak staircase with dark charcoal slender balustrade in an old French house, broad architectural view from entrance. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c1-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: close detail of the underside of a wooden staircase showing a precise traditional timber joint, realistic joinery, shallow depth of field. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c1-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: close editorial photograph of a natural-bristle brush applying clear finish along an oak stair tread, one anatomically natural hand visible. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c2-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: old oak parquet floor in a sunlit French interior, broad low-angle view across beautifully worn herringbone boards. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c2-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: an engineered parquet plank end section on a carpenter workbench showing realistic layered construction and thin oak top layer, macro technical editorial photograph. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c2-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: wood floor repair in progress showing one new replacement oak plank among older straight floorboards, top-down close composition. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c3-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: raw exposed ceiling beams in a quiet traditional French interior, upward wide architectural angle. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c3-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a partly stripped antique oak cabinet in a quiet restoration workshop, visible transition from dark old finish to clean raw wood, frontal three-quarter composition. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c3-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: macro view of pale oak wood grain before finishing, sanding block and plain sandpaper nearby on workbench. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c4-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: wide view of a traditional Normandy timber-frame house facade with dark structural wood and pale lime plaster, garden foreground, overcast daylight. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c4-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: close architectural detail where old oak half-timbering meets lime plaster, subtle moisture staining at the interface, credible realistic materials. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c4-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: traditional timber joint repair on a carpenter workbench, scarf repair in a heavy oak beam with wooden mallet and chisel nearby. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c5-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: elegant timber casement window open into a lush green garden, interior view with warm natural frame and soft lime plaster reveal. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c5-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: close detail of a white PVC window frame during installation within an unfinished masonry reveal, realistic mounting gap and careful positioning. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c5-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a restored period oak wooden front door in a French stone house, exterior straight-on composition with aged brass hardware. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c6-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: warm timber deck adjoining a simple French house and green garden, broad landscape view in gentle morning sunlight. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c6-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: close low-angle architectural perspective of straight parallel timber decking boards, precise gaps and restrained concealed construction, diagonal leading lines. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c6-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: naturally silver-grey weathered timber deck in a verdant garden, light filtered through foliage, quiet wide scene. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c7-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a warm restored entrance hall with muted blue painted wall paneling and a patterned tiled floor, elegant old French home, eye-level wide composition. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c7-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a contemporary small bathroom with walk-in shower, light matte tiles and an oak vanity, restrained compact realistic proportions, wide architectural photograph. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c7-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: carefully protected old patterned floor tiles during renovation, protective breathable sheets rolled partly back and securely taped at edges, close oblique view. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c8-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: renovation floor plan with only abstract unlabeled architectural linework, ruler with no readable numbers, pencil and wood samples on a table, overhead editorial flat lay. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c8-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: artisan material samples of wood and tile alongside completely blank unmarked estimate sheets on a workshop table, carefully composed oblique close view. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c8-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a tidy room prepared for renovation with neatly laid protective floor covering and covered furnishings, soft window daylight, broad room view. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c9-0
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: a row of oak wood finish sample swatches showing matte satin and gloss reflections on the same wood, close tabletop editorial still life. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c9-1
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: one anatomically natural hand using a folded microfiber cloth to gently clean a natural wooden surface, close editorial composition. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
+
+c9-2
+Use case: photorealistic-natural. Asset type: editorial illustrative photograph for a French artisan renovation journal, fictional scene. Primary request: macro detail of an aged brass door hinge mounted correctly on a restored oak door and matching frame, warm patina and wood grain. Landscape 3:2 photograph. Natural light, refined wood, charcoal and neutral colors, believable material textures, premium understated editorial photography. No text, no logo, no watermark, no extra people. Not a documented real company project.
