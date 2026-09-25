@@ -35,4 +35,8 @@ assert blog==100,blog
 assert len(list((root/'blog'/'categorie').glob('*/index.html')))==10
 assert 'prefers-reduced-motion' in (root/'style.css').read_text()
 assert (root/'sitemap.xml').read_text().count('<loc>')==124
+contact=(root/'contact'/'index.html').read_text()
+assert 'action="https://formsubmit.co/contact@mnr-renovations.fr"' in contact
+assert 'method="POST"' in contact
+assert "mailto:contact@mnr-renovations.fr?subject=" not in (root/'app.js').read_text()
 print(f'OK: {count} pages, 100 articles, 10 categories, unique titles, local links/assets, alt text, schemas and sitemap.')
