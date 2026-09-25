@@ -8,10 +8,19 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.getAttribute(
 document.querySelectorAll('.compare input').forEach(input=>input.addEventListener('input',()=>{input.closest('.compare').style.setProperty('--position',input.value+'%');input.setAttribute('aria-valuetext',input.value+' % de la photo avant')}));
 document.querySelectorAll('[data-project-filter]').forEach(link=>link.addEventListener('click',e=>{e.preventDefault();const value=link.dataset.projectFilter;document.querySelectorAll('[data-project-filter]').forEach(x=>{x.classList.toggle('active',x===link);x.setAttribute('aria-current',x===link?'true':'false')});document.querySelectorAll('.project').forEach(p=>p.hidden=value!=='Tous'&&p.dataset.category!==value)}));
 const contactForm=document.querySelector('#contact-form');
-if(contactForm&&new URLSearchParams(location.search).get('envoye')==='1'){
+contactForm?.addEventListener('submit',async event=>{
+ event.preventDefault();
+ const button=contactForm.querySelector('button[type="submit"]');
+ if(button.disabled)return;
  const status=document.querySelector('#form-status');
- status.textContent='Merci, votre demande a bien été envoyée à Quentin.';
- status.focus?.();
- history.replaceState({},'',location.pathname);
-}
+ button.disabled=true;contactForm.setAttribute('aria-busy','true');status.textContent='Envoi en cours…';
+ const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),25000);
+ try{
+  const response=await fetch('/api/contact/',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(contactForm))),signal:controller.signal});
+  const result=await response.json();
+  if(!response.ok||result.success!==true)throw new Error(result.error||'L’envoi a échoué. Contactez-nous directement par email.');
+  contactForm.reset();status.textContent='Merci, votre demande a été transmise à Quentin.';
+ }catch(error){status.textContent=error.name==='AbortError'?'Le délai de réponse est dépassé. L’envoi n’a pas pu être confirmé. Contactez-nous directement.':error.message;}
+ finally{clearTimeout(timer);button.disabled=false;contactForm.removeAttribute('aria-busy');status.focus();}
+});
 if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in-view');observer.unobserve(e.target)}}),{threshold:.08});document.querySelectorAll('.sectionhead,.step').forEach(el=>{el.classList.add('scroll-reveal');observer.observe(el)})}

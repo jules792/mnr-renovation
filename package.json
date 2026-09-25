@@ -1,0 +1,11 @@
+{
+  "name": "mnr-renovation",
+  "private": true,
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "test": "node --test tests/contact.test.js"
+  },
+  "dependencies": {
+    "nodemailer": "10.0.10"
+  }
+}

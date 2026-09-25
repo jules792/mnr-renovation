@@ -23,7 +23,7 @@ HTML pré-rendu, titres et descriptions propres à chaque page, un H1 par page, 
 
 La version Sites est publique. Elle ne remplace pas le site historique. Pour transférer sur le domaine de production, régénérer avec `SITE_URL=https://www.mnr-renovations.fr python build.py`, vérifier les canoniques et sitemap, puis publier l’ensemble de `dist` sur l’hébergement retenu. La règle `/cgv` vers `/mentions-legales/` est dans `_redirects` pour un hébergement compatible ; adapter cette redirection sur les autres serveurs. Préserver le domaine existant et ses liens. Mettre à jour les informations d’hébergement et faire valider les textes métier et contractuels par l’entreprise avant publication publique. Soumettre le sitemap aux outils des moteurs une fois le domaine public opérationnel.
 
-Le formulaire ouvre la messagerie et n’effectue aucun envoi serveur. Il ne collecte rien dans une base. Les coordonnées, l’identité et les métiers ont été repris du site historique consulté le 22 septembre 2026. Aucun avis, qualification, prix ou délai supplémentaire n’a été inventé. Les conseils éditoriaux sont des repères généraux, à adapter à l’état réel de chaque chantier.
+Le formulaire utilise une fonction Vercel et le SMTP OVH pour envoyer les demandes à contact@mnr-renovations.fr. Configurer la variable privée SMTP_PASSWORD comme indiqué dans SMTP.md. Il ne collecte rien dans une base. Les coordonnées, l’identité et les métiers ont été repris du site historique consulté le 22 septembre 2026. Aucun avis, qualification, prix ou délai supplémentaire n’a été inventé. Les conseils éditoriaux sont des repères généraux, à adapter à l’état réel de chaque chantier.
 
 ## Contrôles réalisés
 
